@@ -17,10 +17,15 @@ Of the rows of data, we wanted to look only at those accidents or incidents rega
 ## Exploratory Data Anlysis
 The data includes information on the make and model of the planes.  There are many different makes, but the top 5 companies (Cessna, Piper, Beech, Boring and Mooney) total about 61% of the data, so we will concentrate on those 5 and compare the outcome of the accidents for each company.
 
-![Severity of Injuries Per Airline Chart](https://github.com/user-attachments/assets/4ba63ac4-e875-4d6e-bb4d-1a114e313825)
+![Severity of Injuries Per Airplane Make Chart](https://github.com/user-attachments/assets/667b92d2-d76b-483c-bb01-6fcedf1797c6)
 
-![Percentage of Accidents Resulting in Different Levels of Aircraft Damage](https://github.com/user-attachments/assets/796c4cc7-19e9-400a-966b-8e60d05ad9e6)
+![Severity of Damage Per Airplane Make Chart](https://github.com/user-attachments/assets/05212806-4d52-453e-b61a-c26a712ba539)
 
+We also compared the outcome of accidents by engine type to see if the severity of injuries and aircraft damage is affected by the engine type.
+
+![Severity of Injuries Per Engine Type Chart](https://github.com/user-attachments/assets/169864c9-aa2d-4c2d-8113-d85aa8a8b6ce)
+
+![Severity of Damage Per Engine Type Chart](https://github.com/user-attachments/assets/56ee6da0-e4f0-4ef5-ac8d-920eb133bc90)
 
 ## Conclusion
 
