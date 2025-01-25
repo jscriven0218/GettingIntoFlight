@@ -19,6 +19,8 @@ The data includes information on the make and model of the planes.  There are ma
 
 ![Severity of Injuries Per Airline Chart](https://github.com/user-attachments/assets/4ba63ac4-e875-4d6e-bb4d-1a114e313825)
 
+![Percentage of Accidents Resulting in Different Levels of Aircraft Damage](https://github.com/user-attachments/assets/796c4cc7-19e9-400a-966b-8e60d05ad9e6)
+
 
 ## Conclusion
 
