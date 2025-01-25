@@ -21,11 +21,11 @@ The data includes information on the make and model of the planes.  There are ma
 
 ![Severity of Damage Per Airplane Make Chart](https://github.com/user-attachments/assets/05212806-4d52-453e-b61a-c26a712ba539)
 
-We also compared the outcome of accidents by engine type to see if the severity of injuries and aircraft damage is affected by the engine type.
+We also compared the outcome of accidents by engine type to see if the severity of injuries and aircraft damage is affected by the engine type.  While there are a few different engine types listed, a significant majority were either reciprocating or turbo engines, so we compared their outcomes.
 
-![Severity of Injuries Per Engine Type Chart](https://github.com/user-attachments/assets/169864c9-aa2d-4c2d-8113-d85aa8a8b6ce)
+![Severity of Injuries Per Engine Type Chart](https://github.com/user-attachments/assets/e6f3b578-793a-4ab7-a714-6fa1ace89785)
 
-![Severity of Damage Per Engine Type Chart](https://github.com/user-attachments/assets/56ee6da0-e4f0-4ef5-ac8d-920eb133bc90)
+![Severity of Damage Per Engine Type Chart](https://github.com/user-attachments/assets/3197b40c-a3f2-4233-89b5-ef4fffd05a09)
 
 ## Conclusion
 
