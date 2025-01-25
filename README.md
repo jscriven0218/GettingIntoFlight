@@ -7,7 +7,7 @@ Analysis by Jordan Scriven
 Expanding into a new industry, like flight, is exciting!  With the proper research, we can run a safe and profitable aviation division that will take our company to new heights.
 
 ## Data Understanding
-The National Transportation Safety Board collected aviation accident data from 1948 to 2022.  This data not only provide information on the flight, such as the plane and weather conditions, but also on the acccident itself with records on injuries and the condition of the plane post-accident. With 60+ years of descriptive information at our hands, we need to determine which airplanes are going to give us the best chance at accomplishing our goal of expanding our business.
+The National Transportation Safety Board collected aviation accident data from 1948 to 2022.  This data not only provides information on the flight, such as the plane and weather conditions, but also on the acccident itself with records on injuries and the condition of the plane post-accident. With 60+ years of descriptive information at our hands, we need to determine which airplanes are going to give us the best chance at accomplishing our goal of expanding our business.
 
 Because this data concentrates on the accidents and ignores successful flights, we will focus our attention on determining how to keep the outcome of the accidents to a minimum, meaning little to no injuries and minor aircraft damage.
 
@@ -15,6 +15,10 @@ Because this data concentrates on the accidents and ignores successful flights, 
 Of the rows of data, we wanted to look only at those accidents or incidents regarding airplanes.  About 31% of the recorded data has an aircraft category listed, bringing our total incidents to analyze to just over 27,600.
 
 ## Exploratory Data Anlysis
+The data includes information on the make and model of the planes.  There are many different makes, but the top 5 companies (Cessna, Piper, Beech, Boring and Mooney) total about 61% of the data, so we will concentrate on those 5 and compare the outcome of the accidents for each company.
+
+![Severity of Injuries Per Airline Chart](https://github.com/user-attachments/assets/4ba63ac4-e875-4d6e-bb4d-1a114e313825)
+
 
 ## Conclusion
 
