@@ -42,8 +42,9 @@ This analysis leads to recommendations for success.  With the data that we have 
 *   **Utilize planes with turbo engines** In accidents involving airplanes with reciprocating engines, nearly 40% of the passengers were injured, including 17% fatalities.  On the other hand, of the passengers who were in accidents while flying on an airplane with a turbo engine, only 5% were injured and 2.5% were killed.  Additionally, turbo engines are more likely have an accident with only minor damage to the airline
 *   **Stay grounded when the weather is bad** When the pilots are able to see with their own eyes rather than relying on instruments to guide them, crashes are less likely to end in fatalities.  Almost 20% of passengers involved in a crash while the instruments were guiding the plane had fatal injuries.
 *   **Fly Boeing**  For the safety of our passengers, Boeing is the favorite.  Of the nearly 97,000 passengers recorded to be involved in an accident on a Boeing aircraft, 94% of them were entirely unharmed.  The next best Make of airplane in terms of uninjured passengers in accidents is Cessna with just 63% arriving unscathed.  Boeing also has the greatest likelihood of minimal damage to the aircraft as the result of an accident.  47% of the Boeing aircrafts incured minimal damange, allowing the company to refrain from substantial repair costs.
+  
 ### Limitations
-Additionally, one major limitation of this data is that we currently only have information regarding accidents and incidents involving avaiation.  Without data including successful flights, we are unable to determine exactly which airplanes will be the best for us.
+For the entirety of this analysis, we have made one big assumption.  We assume that all airplanes have equal probabilities of being involved in accidents.  Our data only contained accident information and nothing on successful flights.  Therefore, our conclusions were based on the plan to keep the harm, both to passengers and the aircraft, to a minimum.
 
 ### Recommendations
 
