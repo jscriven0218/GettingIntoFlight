@@ -27,11 +27,23 @@ We also compared the outcome of accidents by engine type to see if the severity 
 
 ![Severity of Damage Per Engine Type Chart](https://github.com/user-attachments/assets/3197b40c-a3f2-4233-89b5-ef4fffd05a09)
 
+Finally, we analyzed the effect of oustide factor of weather on the accidents.  We investigated the time of year of the accidents and the state of visibility the planes were flying through at the time of the crash. 
+
+![Accidents Per Month](https://github.com/user-attachments/assets/9c45b6da-3df2-4f2d-bd3e-f9fcde396f79)
+
+![Meterological Conditions](https://github.com/user-attachments/assets/e88e0dc8-73af-4019-a3b5-ea344606f12b)
+
 ## Conclusion
 
+With the opening of this new aviation division of our company, we have two goals. 1. Keep our great reputation as a company who cares for their customers.2. Make a profit.  In order to reach both those goals, we need to keep our people safe and minimize any damage to our aircrafts.
+
+This analysis leads to recommendations for success.  With the data that we have in hand to analyze, we have come to the following conclusions:
+
+*   **Utilize planes with turbo engines** In accidents involving airplanes with reciprocating engines, nearly 40% of the passengers were injured, including 17% fatalities.  On the other hand, of the passengers who were in accidents while flying on an airplane with a turbo engine, only 5% were injured and 2.5% were killed.  Additionally, turbo engines are more likely have an accident with only minor damage to the airline
+*   **Stay grounded when the weather is bad** When the pilots are able to see with their own eyes rather than relying on instruments to guide them, crashes are less likely to end in fatalities.  Almost 20% of passengers involved in a crash while the instruments were guiding the plane had fatal injuries.
+*   **Fly Boeing**  For the safety of our passengers, Boeing is the favorite.  Of the nearly 97,000 passengers recorded to be involved in an accident on a Boeing aircraft, 94% of them were entirely unharmed.  The next best Make of airplane in terms of uninjured passengers in accidents is Cessna with just 63% arriving unscathed.  Boeing also has the greatest likelihood of minimal damage to the aircraft as the result of an accident.  47% of the Boeing aircrafts incured minimal damange, allowing the company to refrain from substantial repair costs.
 ### Limitations
 Additionally, one major limitation of this data is that we currently only have information regarding accidents and incidents involving avaiation.  Without data including successful flights, we are unable to determine exactly which airplanes will be the best for us.
-
 
 ### Recommendations
 
