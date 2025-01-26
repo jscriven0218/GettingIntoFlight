@@ -35,7 +35,7 @@ Finally, we analyzed the effect of oustide factor of weather on the accidents.  
 
 ## Conclusion
 
-With the opening of this new aviation division of our company, we have two goals. 1. Keep our great reputation as a company who cares for their customers.2. Make a profit.  In order to reach both those goals, we need to keep our people safe and minimize any damage to our aircrafts.
+With the opening of this new aviation division of our company, we have two goals. 1. Keep our great reputation as a company who cares for their customers and 2. Make a profit.  In order to reach both those goals, we need to keep our people safe and minimize any damage to our aircrafts.
 
 This analysis leads to recommendations for success.  With the data that we have in hand to analyze, we have come to the following conclusions:
 
