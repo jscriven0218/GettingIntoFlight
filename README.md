@@ -46,6 +46,9 @@ This analysis leads to recommendations for success.  With the data that we have 
 ### Limitations
 For the entirety of this analysis, we have made one big assumption.  We assume that all airplanes have equal probabilities of being involved in accidents.  Our data only contained accident information and nothing on successful flights.  Therefore, our conclusions were based on the plan to keep the harm, both to passengers and the aircraft, to a minimum.
 
-### Recommendations
-
 ### Next Steps
+Further analysis could help us develop the aviation division of our company even more:
+
+*   **Add data regarding successful flights** With additional information on all flights, including those that are successful, we could analyze which planes are not only more likely to result in minimal injury and damage when an accidents occurs but also recommend planes that are less likely to be involved in an iccident at all.
+*   **Model Cost Information** In order earn a profit in the aviation division, modeling the cost of each flight and the income resulting from each flight would be beneficial.
+
