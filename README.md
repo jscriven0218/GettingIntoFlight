@@ -14,6 +14,8 @@ Because this data concentrates on the accidents and ignores successful flights, 
 ### Data Preparation
 Of the rows of data, we wanted to look only at those accidents or incidents regarding airplanes.  About 70% of the recorded data has invovled an airplane, bringing our total incidents to analyze to just over 62,500.
 
+To make the data easier to handle, we dropped unnecessary columns, replaced blanks with "unknowns" and added some columns that would be helpful.
+
 ## Exploratory Data Anlysis
 The data includes information on the make and model of the planes.  There are many different makes, but the top 5 companies (Cessna, Piper, Beech, Boring and Mooney) total about 83% of the data, so we will concentrate on those 5 and compare the outcome of the accidents for each company.
 
