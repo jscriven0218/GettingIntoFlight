@@ -44,7 +44,17 @@ This analysis leads to recommendations for success.  With the data that we have 
 *   **Utilize planes with turbo engines** In accidents involving airplanes with reciprocating engines, nearly 41% of the passengers were injured, including 18% fatalities.  On the other hand, of the passengers who were in accidents while flying on an airplane with a turbo engine, less than 5% were injured and 2.5% were killed.  Additionally, turbo engines are more likely have an accident with only minor damage to the airline
 *   **Stay grounded when the weather is bad** When the pilots are able to see with their own eyes rather than relying on instruments to guide them, crashes are less likely to end in fatalities.  Over 23% of passengers involved in a crash while the instruments were guiding the plane had fatal injuries.
 *   **Fly Boeing**  For the safety of our passengers, Boeing is the favorite.  Of the nearly 225,000 passengers recorded to be involved in an accident on a Boeing aircraft, 94% of them were entirely unharmed.  The next best Make of airplane in terms of uninjured passengers in accidents is Cessna with just 62% arriving unscathed.  Boeing also has the greatest likelihood of minimal damage to the aircraft as the result of an accident.  43% of the Boeing aircrafts incured minimal damange, allowing the company to refrain from substantial repair costs.
-  
+
+### Flying Boeing
+
+With further analysis and visualization, the data shows that over time, the numbers of uninjured passengers compared to the total number of passengers flying Boeing and involved in accidents are coming closer and closer.  In 2022, 6,155 Boeing customers were involved in an accident.  5,987 of those passengers were not injured in the accident.
+
+![Boeing Injuries](https://github.com/user-attachments/assets/9835fa98-03df-4eb9-ba1c-f5d2266345bf)
+
+Additionally, the number of aircrafts that incur minimal damage due to an accident outnumbers those with substanial damage or those that are destroyed, in general, since 2007.
+
+![Boeing Damage](https://github.com/user-attachments/assets/c225b522-11c4-4056-ab4b-b24290311541)
+
 ### Limitations
 For the entirety of this analysis, we have made one big assumption.  We assume that all airplanes have equal probabilities of being involved in accidents.  Our data only contained accident information and nothing on successful flights.  Therefore, our conclusions were based on the plan to keep the harm, both to passengers and the aircraft, to a minimum.
 
